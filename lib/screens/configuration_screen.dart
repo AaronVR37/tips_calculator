@@ -39,7 +39,7 @@ class ConfigurationScreen extends StatelessWidget{
 	                //setDefaultValues(percent);
 	              });
           },
-          child:const Text('Go back to the '),
+          child:const Text('Calculate percent'),
         ),
       ),
     );
